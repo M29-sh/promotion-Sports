@@ -3,4 +3,4 @@ Promotion - A sports or casino offering with a purpose of encouraging potential 
 
 HTML, CSS and JavaScript using 
 and 
-need to for run index open in you browser using any server
+Need Use Live Server for run index file in browser
